@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 886a919620c201642a39f8600ad987c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -556279669367724807
+    second: cal buttons_0
+  - first:
+      213: 1650670578580006981
+    second: cal buttons_1
+  - first:
+      213: 504534372404487575
+    second: cal buttons_2
+  - first:
+      213: -4914504904626900427
+    second: cal buttons_3
+  - first:
+      213: 4284457153182449809
+    second: cal buttons_4
+  - first:
+      213: 1942984721342774675
+    second: cal buttons_5
+  - first:
+      213: -6554998635567517351
+    second: cal buttons_6
+  - first:
+      213: 360304855695988742
+    second: cal buttons_7
+  - first:
+      213: 4917660641961109283
+    second: cal buttons_8
+  - first:
+      213: 827229778635982066
+    second: cal buttons_9
+  - first:
+      213: -3373965093629185100
+    second: cal buttons_10
+  - first:
+      213: -723089944816860418
+    second: cal buttons_11
+  - first:
+      213: -5047493604611013604
+    second: cal buttons_12
+  - first:
+      213: 8672224308104741861
+    second: cal buttons_13
+  - first:
+      213: 7393775282240913292
+    second: cal buttons_14
+  - first:
+      213: 7045386115729263520
+    second: cal buttons_15
+  - first:
+      213: -1636617251814707323
+    second: cal buttons_16
+  - first:
+      213: -5800584413974986617
+    second: cal buttons_17
+  - first:
+      213: 8004740479949213197
+    second: cal buttons_18
+  - first:
+      213: -1424294094482569933
+    second: cal buttons_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cal buttons_0
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 6687
+        width: 923
+        height: 923
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4a0978692b748f0800000000000000
+      internalID: -556279669367724807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cal buttons_1
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 6687
+        width: 923
+        height: 923
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5482375452c58e610800000000000000
+      internalID: 1650670578580006981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cal buttons_2
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 6687
+        width: 924
+        height: 923
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795e42ca657700700800000000000000
+      internalID: 504534372404487575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cal buttons_3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 5313
+        width: 923
+        height: 937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5327cc0d3db2ccbb0800000000000000
+      internalID: -4914504904626900427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cal buttons_4
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 5313
+        width: 923
+        height: 937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19042dea413757b30800000000000000
+      internalID: 4284457153182449809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cal buttons_5
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 5313
+        width: 924
+        height: 937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39db5a74f4ed6fa10800000000000000
+      internalID: 1942984721342774675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cal buttons_6
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 3937
+        width: 923
+        height: 923
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951f3d78877f705a0800000000000000
+      internalID: -6554998635567517351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cal buttons_7
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 3937
+        width: 923
+        height: 923
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6089b967b5f000500800000000000000
+      internalID: 360304855695988742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cal buttons_8
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 3937
+        width: 924
+        height: 923
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327e20a8c4a0f3440800000000000000
+      internalID: 4917660641961109283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cal buttons_9
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2686
+        width: 923
+        height: 923
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4093fc919ea7b00800000000000000
+      internalID: 827229778635982066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cal buttons_10
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 2686
+        width: 923
+        height: 923
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b33aa59f944d21d0800000000000000
+      internalID: -3373965093629185100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cal buttons_11
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 2686
+        width: 924
+        height: 923
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2c88ab68117f5f0800000000000000
+      internalID: -723089944816860418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cal buttons_12
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1391
+        width: 923
+        height: 937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14ca133f43b3f9b0800000000000000
+      internalID: -5047493604611013604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cal buttons_13
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1391
+        width: 923
+        height: 937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e347119f0ee95870800000000000000
+      internalID: 8672224308104741861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cal buttons_14
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 1391
+        width: 924
+        height: 937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f780ff177fb9660800000000000000
+      internalID: 7393775282240913292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cal buttons_15
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 1391
+        width: 937
+        height: 937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab038d185d36c160800000000000000
+      internalID: 7045386115729263520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cal buttons_16
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 218
+        width: 923
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fee48d7419949e0800000000000000
+      internalID: -1636617251814707323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cal buttons_17
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 218
+        width: 923
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7808a53553f208fa0800000000000000
+      internalID: -5800584413974986617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cal buttons_18
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 218
+        width: 924
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e009a3e0d861f60800000000000000
+      internalID: 8004740479949213197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cal buttons_19
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 218
+        width: 937
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3350eaa3114eb3ce0800000000000000
+      internalID: -1424294094482569933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
